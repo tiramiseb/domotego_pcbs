@@ -1,8 +1,8 @@
 Domotego PCBs
 =============
 
-As the owner of the Domotego online shop, I try developping small useful boards
-which help with DIY home automation.
+As the owner of the Domotego online shop, I develop small useful companion
+boards helping with DIY home automation.
 
 The shop
 --------
